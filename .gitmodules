@@ -1,0 +1,3 @@
+[submodule "client-ui"]
+	path = client-ui
+	url = https://github.com/Astrolune/client-ui.git
