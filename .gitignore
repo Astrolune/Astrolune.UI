@@ -5,3 +5,6 @@ dist/
 *.user
 *.suo
 .vs/
+
+# Build output - created during CI/CD, not tracked in git
+Resources/
